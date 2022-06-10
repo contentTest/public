@@ -1,7 +1,7 @@
 name: Comment Bounty
 description: Click to request to join
 title: "💾 - Category"
-labels: [github]
+labels: [github], [hello]
 assignees:
   - twan-dev
 body:
