@@ -1,14 +1,18 @@
-name: Comment Bounty
-description: Click to request to join
-title: "💾 - Category"
-labels: [github], [hello]
+name: Bounty: Forum Expert Cryptography EXAMPLE
+description: Click to start
+title: "YOUR_NAME: Cryptography"
+labels: "comment,hours,traditional,approval"
 assignees:
   - twan-dev
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this new user form!
+        ## Eligibility
+        This bounty is for Contributor or higher members of SCRF.
+        ## Steps to Success
+        - [ ]  Write a comment on 5 different posts in the Cryptography category on the SCRF Forum
+
 
   - type: textarea
     id: text
