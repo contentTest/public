@@ -10,9 +10,6 @@ body:
       value: |
         ## Eligibility
         This bounty is for Contributor or higher members of SCRF.
-        ## Steps to Success
-        - [ ]  Write a comment on 5 different posts in the Cryptography category on the SCRF Forum
-
 
   - type: textarea
     id: text
